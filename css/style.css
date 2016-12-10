@@ -1,0 +1,356 @@
+html {
+    font-family: 'Ubuntu', sans-serif !important;
+    color: hsl(0, 0%, 90%) !important;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif !important;
+    background-color: hsl(0, 0%, 10%);
+    color: hsl(0, 0%, 90%) !important;
+}
+
+.pagination {
+    margin: 0;
+    padding: 0;
+    margin: auto;
+}
+
+.pagination ul {
+    margin: auto;
+}
+
+.pagination li {
+    display: inline !important;
+    font-size: 3rem;
+}
+
+pre > code {
+    font-family: 'Inconsolata', monospace !important;
+}
+
+.single-content {
+    border-top: 7px solid hsl(0, 0%, 10%);
+    padding-top: 2rem;
+}
+
+.main-title {
+    font-family: 'Inconsolata', monospace;
+}
+
+.main-title h1{
+    font-size: 17rem;
+    text-align: center;
+    border-bottom: 7px solid hsl(0, 0%, 10%);
+    margin-bottom: 5rem;
+    padding-bottom: 1.2rem;
+    transition: color 0.7s;
+}
+
+.main-title h2{
+    font-size: 10rem;
+    text-align: center;
+    border-bottom: 7px solid hsl(0, 0%, 10%);
+    padding-bottom: 1.2rem;
+}
+
+.github-avatar {
+    border: 1px solid black;
+    color: #C0392B;
+    background-color: #C0392B;
+    height: 178px;
+    width: 178px;
+    margin: auto;
+    transition: border 0.5s;
+}
+
+.github-avatar:hover {
+    border: 1px solid hsl(0, 0%, 10%);
+    transition: border 0.5s;
+}
+
+.main-title h1:hover {
+    color: #C0392B !important;
+    transition: color 0.7s;
+    text-shadow:
+    -1px -1px 0 hsl(0, 0%, 10%),
+    1px -1px 0 hsl(0, 0%, 10%),
+    -1px 1px 0 hsl(0, 0%, 10%),
+    1px 1px 0 hsl(0, 0%, 10%);  
+}
+
+.main-title h1:hover > .red {
+    color: hsl(0, 0%, 90%) !important;
+    transition: color 0.7s;
+}
+
+.main-title img {
+
+}
+
+.blog-title {
+    color: #C0392B !important;
+    transition: color 0.3s;
+}
+
+.blog-title:hover {
+    transition: color 0.1s;
+      text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
+
+.blog-title:hover::before {
+    content: "» "
+}
+
+.summary {
+    padding-bottom: 2rem;
+    border-bottom: 7px solid hsl(0, 0%, 10%);
+}
+
+@media (max-width: 1000px) {
+    .main-title h1{
+        font-size: 6rem;
+    }
+    .main-title h2{
+        font-size: 6rem;
+    }
+}
+
+.inline {
+    display: inline-block;
+}
+
+hr {
+    border-bottom: 3px solid hsl(0, 0%, 10%);
+    margin: 0;
+    padding: 0;
+}
+
+.blog-post {
+    padding-bottom: 2rem;
+}
+
+.red {
+    color: #C0392B;
+    transition: color 0.7s;
+}
+
+a {
+    color: hsl(0, 0%, 90%) !important;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #C0392B !important;
+    transition: color 0.3s;
+}
+
+.blog-post a {
+    color: hsl(0, 0%, 90%) !important;
+    text-decoration: none;
+}
+
+.blog-post a:hover {
+    color: #C0392B !important;
+    transition: color 0.3s;
+}
+
+.blog-post img {
+    height:100%;
+    overflow: hidden;
+}
+
+.aboutme-sidebar h2 {
+    margin-bottom: 0.3rem;
+}
+
+.aboutme-sidebar p {
+    margin-bottom: 0.3rem;
+}
+
+.aboutme-sidebar a {
+    color: hsl(0, 0%, 90%) !important;
+    text-decoration: none;
+}
+
+.aboutme-siderbar a:hover {
+    color: #C0392B !important;
+    transition: color 0.3s;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    padding-top: 6.5rem;
+}
+
+.float-right {
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+    float: right;
+    position: fixed;
+    right: 1rem;
+    top: 0;
+}
+
+float-right:last-child {
+    margin-right: 1rem;
+}
+
+.container {
+    border: 1px solid hsl(0, 0%, 5%);
+    background-color: hsl(0, 0%, 7%);
+    margin-bottom: 4rem !important;
+}
+
+.box {
+    padding-top: .8rem;
+    padding-left: 3rem;
+    padding-right: 1.9rem;
+    padding-bottom: 1rem;
+    background-color: hsl(0, 0%, 7%);
+    margin-bottom: 1rem;
+}
+
+.box h1 {
+    margin-bottom: 0.5rem;
+}
+
+.content {
+    overflow: auto;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.content:before {
+    content: "";
+    position: fixed;
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    z-index: -1;
+
+    background-color: hsl(0, 0%, 10%);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    width: 100%;
+    height: 100%;
+}
+
+.main-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    width: 100%;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+    background-color: hsl(0, 0%, 7%);
+    border-bottom: 7px solid hsl(0, 0%, 15%);
+}
+
+.main-nav ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.main-nav li {
+    display: inline-block;
+}
+
+.main-nav a {
+    margin-left: 1.2rem;
+    text-decoration: none;
+    color: hsl(0, 0%, 90%) !important;
+    font-size: 2rem;
+}
+
+@keyframes main-nav-hover {
+  0% {
+    color: hsl(0, 0%, 90%) !important;
+  }
+  100% {
+    color: #C0392B;
+  }
+}
+
+.main-nav a:hover {
+    color: #C0392B !important;
+    transition: color 0.3s;
+}
+
+small, p, h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    margin-bottom: 1.8rem;
+}
+
+h1 {
+    font-size: 4.0rem;
+    line-height: 1;
+}
+
+h2 {
+    font-size: 3.5rem;
+    line-height: 1.05;
+}
+
+h3 {
+    font-size: 3rem;
+    line-height: 1.1;
+}
+
+h4 {
+    font-size: 2.5rem;
+    line-height: 1.15;
+}
+
+h5 {
+    font-size: 2rem;
+    line-height: 1.2;
+}
+
+h6 {
+    font-size: 1.5rem;
+    line-height: 1.25;
+}
+
+small {
+    font-size: 1.22rem;
+    line-height: 0.9;
+}
+
+@media (min-width: 40rem) {
+  h1
+    {font-size: 4.5rem}
+
+  h2
+    {font-size: 4rem}
+
+  h3
+    {font-size: 3.5rem}
+
+  h4
+    {font-size: 3rem}
+
+  h5
+    {font-size: 2.5rem}
+
+  h6
+    {font-size: 2rem}
+}
