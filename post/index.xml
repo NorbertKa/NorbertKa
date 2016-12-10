@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://norbertka.github.io/NorbertKa/post/index.xml</link>
+    <link>/norber.tech/post/index.xml</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Dec 2016 15:31:39 +0200</lastBuildDate>
-    <atom:link href="https://norbertka.github.io/NorbertKa/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/norber.tech/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Go Into</title>
-      <link>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%2810%29/</link>
+      <link>/norber.tech/post/Go-Into%20-%20Copy%20%2810%29/</link>
       <pubDate>Sat, 10 Dec 2016 15:31:39 +0200</pubDate>
       
-      <guid>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%2810%29/</guid>
+      <guid>/norber.tech/post/Go-Into%20-%20Copy%20%2810%29/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction-to-go-golang-programming-language&#34;&gt;Introduction to Go [Golang] Programming language.&lt;/h3&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>Go Into</title>
-      <link>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%2811%29/</link>
+      <link>/norber.tech/post/Go-Into%20-%20Copy%20%2811%29/</link>
       <pubDate>Sat, 10 Dec 2016 15:31:39 +0200</pubDate>
       
-      <guid>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%2811%29/</guid>
+      <guid>/norber.tech/post/Go-Into%20-%20Copy%20%2811%29/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction-to-go-golang-programming-language&#34;&gt;Introduction to Go [Golang] Programming language.&lt;/h3&gt;
@@ -67,10 +67,10 @@
     
     <item>
       <title>Go Into</title>
-      <link>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%2812%29/</link>
+      <link>/norber.tech/post/Go-Into%20-%20Copy%20%2812%29/</link>
       <pubDate>Sat, 10 Dec 2016 15:31:39 +0200</pubDate>
       
-      <guid>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%2812%29/</guid>
+      <guid>/norber.tech/post/Go-Into%20-%20Copy%20%2812%29/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction-to-go-golang-programming-language&#34;&gt;Introduction to Go [Golang] Programming language.&lt;/h3&gt;
@@ -95,10 +95,10 @@
     
     <item>
       <title>Go Into</title>
-      <link>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%2813%29/</link>
+      <link>/norber.tech/post/Go-Into%20-%20Copy%20%2813%29/</link>
       <pubDate>Sat, 10 Dec 2016 15:31:39 +0200</pubDate>
       
-      <guid>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%2813%29/</guid>
+      <guid>/norber.tech/post/Go-Into%20-%20Copy%20%2813%29/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction-to-go-golang-programming-language&#34;&gt;Introduction to Go [Golang] Programming language.&lt;/h3&gt;
@@ -123,10 +123,10 @@
     
     <item>
       <title>Go Into</title>
-      <link>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%2814%29/</link>
+      <link>/norber.tech/post/Go-Into%20-%20Copy%20%2814%29/</link>
       <pubDate>Sat, 10 Dec 2016 15:31:39 +0200</pubDate>
       
-      <guid>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%2814%29/</guid>
+      <guid>/norber.tech/post/Go-Into%20-%20Copy%20%2814%29/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction-to-go-golang-programming-language&#34;&gt;Introduction to Go [Golang] Programming language.&lt;/h3&gt;
@@ -151,10 +151,10 @@
     
     <item>
       <title>Go Into</title>
-      <link>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%2815%29/</link>
+      <link>/norber.tech/post/Go-Into%20-%20Copy%20%2815%29/</link>
       <pubDate>Sat, 10 Dec 2016 15:31:39 +0200</pubDate>
       
-      <guid>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%2815%29/</guid>
+      <guid>/norber.tech/post/Go-Into%20-%20Copy%20%2815%29/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction-to-go-golang-programming-language&#34;&gt;Introduction to Go [Golang] Programming language.&lt;/h3&gt;
@@ -179,10 +179,10 @@
     
     <item>
       <title>Go Into</title>
-      <link>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%2816%29/</link>
+      <link>/norber.tech/post/Go-Into%20-%20Copy%20%2816%29/</link>
       <pubDate>Sat, 10 Dec 2016 15:31:39 +0200</pubDate>
       
-      <guid>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%2816%29/</guid>
+      <guid>/norber.tech/post/Go-Into%20-%20Copy%20%2816%29/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction-to-go-golang-programming-language&#34;&gt;Introduction to Go [Golang] Programming language.&lt;/h3&gt;
@@ -207,10 +207,10 @@
     
     <item>
       <title>Go Into</title>
-      <link>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%2817%29/</link>
+      <link>/norber.tech/post/Go-Into%20-%20Copy%20%2817%29/</link>
       <pubDate>Sat, 10 Dec 2016 15:31:39 +0200</pubDate>
       
-      <guid>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%2817%29/</guid>
+      <guid>/norber.tech/post/Go-Into%20-%20Copy%20%2817%29/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction-to-go-golang-programming-language&#34;&gt;Introduction to Go [Golang] Programming language.&lt;/h3&gt;
@@ -235,10 +235,10 @@
     
     <item>
       <title>Go Into</title>
-      <link>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%282%29/</link>
+      <link>/norber.tech/post/Go-Into%20-%20Copy%20%282%29/</link>
       <pubDate>Sat, 10 Dec 2016 15:31:39 +0200</pubDate>
       
-      <guid>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%282%29/</guid>
+      <guid>/norber.tech/post/Go-Into%20-%20Copy%20%282%29/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction-to-go-golang-programming-language&#34;&gt;Introduction to Go [Golang] Programming language.&lt;/h3&gt;
@@ -263,10 +263,10 @@
     
     <item>
       <title>Go Into</title>
-      <link>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%283%29/</link>
+      <link>/norber.tech/post/Go-Into%20-%20Copy%20%283%29/</link>
       <pubDate>Sat, 10 Dec 2016 15:31:39 +0200</pubDate>
       
-      <guid>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%283%29/</guid>
+      <guid>/norber.tech/post/Go-Into%20-%20Copy%20%283%29/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction-to-go-golang-programming-language&#34;&gt;Introduction to Go [Golang] Programming language.&lt;/h3&gt;
@@ -291,10 +291,10 @@
     
     <item>
       <title>Go Into</title>
-      <link>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%284%29/</link>
+      <link>/norber.tech/post/Go-Into%20-%20Copy%20%284%29/</link>
       <pubDate>Sat, 10 Dec 2016 15:31:39 +0200</pubDate>
       
-      <guid>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%284%29/</guid>
+      <guid>/norber.tech/post/Go-Into%20-%20Copy%20%284%29/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction-to-go-golang-programming-language&#34;&gt;Introduction to Go [Golang] Programming language.&lt;/h3&gt;
@@ -319,10 +319,10 @@
     
     <item>
       <title>Go Into</title>
-      <link>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%285%29/</link>
+      <link>/norber.tech/post/Go-Into%20-%20Copy%20%285%29/</link>
       <pubDate>Sat, 10 Dec 2016 15:31:39 +0200</pubDate>
       
-      <guid>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%285%29/</guid>
+      <guid>/norber.tech/post/Go-Into%20-%20Copy%20%285%29/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction-to-go-golang-programming-language&#34;&gt;Introduction to Go [Golang] Programming language.&lt;/h3&gt;
@@ -347,10 +347,10 @@
     
     <item>
       <title>Go Into</title>
-      <link>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%286%29/</link>
+      <link>/norber.tech/post/Go-Into%20-%20Copy%20%286%29/</link>
       <pubDate>Sat, 10 Dec 2016 15:31:39 +0200</pubDate>
       
-      <guid>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%286%29/</guid>
+      <guid>/norber.tech/post/Go-Into%20-%20Copy%20%286%29/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction-to-go-golang-programming-language&#34;&gt;Introduction to Go [Golang] Programming language.&lt;/h3&gt;
@@ -375,10 +375,10 @@
     
     <item>
       <title>Go Into</title>
-      <link>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%287%29/</link>
+      <link>/norber.tech/post/Go-Into%20-%20Copy%20%287%29/</link>
       <pubDate>Sat, 10 Dec 2016 15:31:39 +0200</pubDate>
       
-      <guid>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%287%29/</guid>
+      <guid>/norber.tech/post/Go-Into%20-%20Copy%20%287%29/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction-to-go-golang-programming-language&#34;&gt;Introduction to Go [Golang] Programming language.&lt;/h3&gt;
@@ -403,10 +403,10 @@
     
     <item>
       <title>Go Into</title>
-      <link>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%288%29/</link>
+      <link>/norber.tech/post/Go-Into%20-%20Copy%20%288%29/</link>
       <pubDate>Sat, 10 Dec 2016 15:31:39 +0200</pubDate>
       
-      <guid>https://norbertka.github.io/NorbertKa/post/Go-Into%20-%20Copy%20%288%29/</guid>
+      <guid>/norber.tech/post/Go-Into%20-%20Copy%20%288%29/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction-to-go-golang-programming-language&#34;&gt;Introduction to Go [Golang] Programming language.&lt;/h3&gt;
